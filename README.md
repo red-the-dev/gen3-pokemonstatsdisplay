@@ -18,4 +18,7 @@ but it only works with english and italian versions. Other languages are arleady
 
 ## Scrrenshots
 
-!(https://raw.githubusercontent.com/red-the-dev/gen3-pokemonstatsdisplay/master/Screenshots/firered-enemy.png)
+![alt text](https://raw.githubusercontent.com/red-the-dev/gen3-pokemonstatsdisplay/master/Screenshots/ruby-player.png)
+![alt text](https://raw.githubusercontent.com/red-the-dev/gen3-pokemonstatsdisplay/master/Screenshots/ruby-enemy.png)
+![alt text](https://raw.githubusercontent.com/red-the-dev/gen3-pokemonstatsdisplay/master/Screenshots/firered-player.png)
+![alt text](https://raw.githubusercontent.com/red-the-dev/gen3-pokemonstatsdisplay/master/Screenshots/firered-enemy.png)
