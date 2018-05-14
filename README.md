@@ -1,4 +1,4 @@
-# gen3-lua-stats-display
+# gen3-pokemonstatsdisplay
 
 Pokémon stats display Lua script (player's team and enemy). Works with every gen 3 game
 
