@@ -13,4 +13,7 @@ The script automatically detects every gen 3 Pokémon game (Ruby, Sapphire, Emer
 - Spanish
 - French
 - Japanese
+
 but it only works with english and italian versions. Other languages are arleady mapped, so the only thing that's missing is the starting byte for each game. Feel free to edit.
+
+## Scrrenshots
