@@ -17,3 +17,5 @@ The script automatically detects every gen 3 Pokémon game (Ruby, Sapphire, Emer
 but it only works with english and italian versions. Other languages are arleady mapped, so the only thing that's missing is the starting byte for each game. Feel free to edit.
 
 ## Scrrenshots
+
+!(https://raw.githubusercontent.com/red-the-dev/gen3-pokemonstatsdisplay/master/Screenshots/firered-enemy.png)
