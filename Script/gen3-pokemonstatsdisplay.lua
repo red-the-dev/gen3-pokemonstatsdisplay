@@ -5,12 +5,12 @@ versions = {"POKEMON RUBY",
             "POKEMON EMER"}
 
 languages = {"Unknown",
-			 "Deutsch",
+	     "Deutsch",
              "French",
-			 "Italian",
-			 "Spanish",
-			 "English",
-			 "Japanese"}
+             "Italian",
+             "Spanish",
+             "English",
+             "Japanese"}
 			 
 function checkversion(version)
 	for i,v in pairs(versions) do
@@ -94,6 +94,8 @@ if vindex == 3 or vindex == 4 then  -- FR/LG
 		game = 3
 	elseif lindex == 7 then
 		game = 6
+	elseif lindex == 5 then
+		game = 8
 	end
 end
 
@@ -143,13 +145,14 @@ local k
 --5: Emerald J (TODO)
 --6: FireRed/LeafGreen J (1360)
 --7: Ruby/Sapphire I
+--8: FireRed/LeafGreen S
 
 local gamename={"Ruby/Sapphire U", "Emerald U", "FireRed/LeafGreen U", "Ruby/Sapphire J", "Emerald J", "FireRed/LeafGreen J (1360)", "Ruby/Sapphire I"}
 
 --game dependent
 
-local pstats={0x3004360, 0x20244EC, 0x2024284, 0x3004290, 0x2024190, 0x20241E4, 0x3004370}
-local estats={0x30045C0, 0x2024744, 0x202402C, 0x30044F0, 0x0000000, 0x2023F8C, 0x30045D0}
+local pstats={0x3004360, 0x20244EC, 0x2024284, 0x3004290, 0x2024190, 0x20241E4, 0x3004370, 0x2024284}
+local estats={0x30045C0, 0x2024744, 0x202402C, 0x30044F0, 0x0000000, 0x2023F8C, 0x30045D0, 0x202402C}
 local rng   ={0x3004818, 0x3005D80, 0x3005000, 0x3004748, 0x0000000, 0x3005040, 0} --0X3004FA0
 local rng2  ={0x0000000, 0x0000000, 0x20386D0, 0x0000000, 0x0000000, 0x203861C, 0}
 
